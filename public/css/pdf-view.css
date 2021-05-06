@@ -1,0 +1,31 @@
+.pdf-view-wrapper {
+    font-size: 12px;
+    position: relative;
+}
+.pdf-view-wrapper p {
+    margin: 0;
+}
+.pdf-view-wrapper .bold {
+    font-weight: bold;
+}
+.pdf-view-wrapper .dynamic {
+    margin-left: 10px;
+}
+.pdf-view-head {
+    margin-left: 800px;
+}
+.pdf-view-body-title {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pdf-view-body-info-executor {
+    margin-top: 8px;
+    font-size: 11px;
+}
+
+.pdf-line {
+    border-bottom: 2px dashed #000;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
